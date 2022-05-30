@@ -1,5 +1,7 @@
 ## Arithmetic via denotational design
 
+This repository is an experiment in collaborative denotational design.
+
 The Agda standard library defines arithmetic for `ℕ` in `Data.Nat`, particularly `0`, `1`, `_+_`, and `_*_`.
 
 The puzzle to be addressed in this project is (a) elegantly specifying and (b) correctly calculating these same operations on `Fin` and on binary (bit vectors).
